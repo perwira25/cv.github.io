@@ -1,0 +1,1 @@
+1000px x 1000px Portfolio Image Resolution
